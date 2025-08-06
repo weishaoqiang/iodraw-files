@@ -16,10 +16,10 @@
         <mxCell id="z24RnfVKbbzLHIpgNSC8-8" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="100" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="z24RnfVKbbzLHIpgNSC8-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="z24RnfVKbbzLHIpgNSC8-7">
+        <mxCell id="z24RnfVKbbzLHIpgNSC8-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;exitX=0.533;exitY=0.099;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="160" y="230" as="sourcePoint" />
-            <mxPoint x="490" y="540" as="targetPoint" />
+            <mxPoint x="140.65999999999985" y="190.00000000000006" as="sourcePoint" />
+            <mxPoint x="490" y="568.82" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
