@@ -19,7 +19,7 @@
             <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z24RnfVKbbzLHIpgNSC8-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="z24RnfVKbbzLHIpgNSC8-6" value="url?sessionId=XXX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
